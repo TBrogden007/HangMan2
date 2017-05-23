@@ -1,0 +1,80 @@
+div#man {
+     margin: 10;
+     padding: 0;
+
+     padding-left:5px;
+     border-top: 5px solid red;
+     border-left: 3px solid red;
+     color: red;
+      font-weight: bold;
+      font-size: 17px;
+      height:100px;
+      width:50px;
+}
+
+    div#man pre{
+      margin:0;
+      padding:0;
+}
+
+    div#wordDisplay {
+      font-family: Arial;
+      font-size: 40px;
+      letter-spacing: 5px;
+      color: white;
+      font-family: 'Play', sans-serif;
+
+}
+
+    div#keyboard div {
+      width: 30px; 
+      height:30px; 
+      border-style: solid; 
+      border-color: grey;
+      text-align: center;
+      padding: 2px; 
+      float: left; 
+      margin: 2px; 
+      background-color: blue; 
+      color: white;
+      font-family: 'Orbitron', sans-serif;
+}
+
+body{
+  background: url("../images/background.png"); 
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: 'Play', sans-serif;
+}
+
+h1{
+  color: yellow;
+  font-family: 'Bungee Outline', cursive;
+  font-size: 46px;
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+  color: red;
+
+}
+
+h3{
+  text-align: center;
+  color: red; 
+}
+
+.tag1 {
+  color: yellow;
+  text-align: center;
+}
+
+.tag2 {
+  color: blue;
+}
+
+.tag3 {
+  color: green;
+}
+
